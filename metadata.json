@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge AI - Placement Ecosystem",
+  "description": "Tactile AI placement ecosystem connecting Students, TPOs, Recruiters, and Administrators across Madhya Pradesh with verified skill passports and employability intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
